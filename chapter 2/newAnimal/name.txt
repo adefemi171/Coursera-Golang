@@ -1,3 +1,18 @@
+fmt.Println("1. To input a new animal use >newanimal AnimalName AnimalType example: >newanimal Dog Dog")
+	fmt.Println("2. To Query an animal use >query AnimalName infoRequested example: >query cow move")
+	fmt.Println("3. Enter x to exit")
+
+
+
+
+
+
+
+
+
+
+
+
 package main
 
 import (
